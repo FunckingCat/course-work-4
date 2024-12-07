@@ -1,0 +1,596 @@
+Pharmacological treatment of obsessive-compulsive disorder
+Christopher Pittenger, MD, Ph.D. and Michael H. Bloch, MD, MS
+Department of Psychiatry and Child Study Center, Yale University School of Medicine, 34 Park
+Street, New Haven, CT 06519
+Christopher Pittenger: Christopher.pittenger@yale.edu; Michael H. Bloch: Michael.bloch@yale.edu
+Synopsis
+Obsessive-compulsive disorder (OCD) affects up to 2.5% of the population of the course of a
+lifetime and produces substantial morbidity. Approximately 70% of patients can experience
+significant symptomatic relief with appropriate pharmacotherapy. The selective serotonin reuptake
+inhibitors (SSRIs) are the main stay of pharmacological treatment. These are typically used at
+higher doses and for longer periods than in depression. Remission is, unfortunately, uncommon.
+Proven second-line treatments include the tricyclic clomipramine and the addition of low-dose
+neuroleptic medications. Other augmentation strategies have been explored for patients refractory
+to proven interventions, but they are not as of yet robustly supported by controlled studies. The
+combination of medication with psychotherapy is often used, though careful studies have not
+documented synergistic benefit in adult patients. OCD refractory to available treatments remains a
+profound clinical challenge.
+Keywords
+Obsessive-compulsive disorder; OCD; pharmacotherapy; SSRI; antidepressant; augmentation
+Introduction
+Obsessive-compulsive disorder (OCD) can present a significant management challenge to
+the clinical psychiatrist. OCD affects approximately 1.3% of the population in any given
+year, and up to 2.7% over the course of a lifetime [1]. Symptoms consist of obsessions and
+compulsions; while either alone suffices for a diagnosis, it is typical for a patient to have
+both [2]. Obsessions are repetitive, stereotyped thoughts that cause anxiety or distress. These
+are generally experienced as intrusive or ego-dystonic, and they are typically recognized as
+unrealistic or excessive; this distinguishes them from delusions, although the distinction can
+become unclear in some severe cases. Compulsions are ritualized actions that are undertaken
+© 2014 Elsevier Inc. All rights reserved.
+Correspondence to: Christopher Pittenger, Christopher.pittenger@yale.edu.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+The authors have nothing to disclose
+NIH Public Access
+Author Manuscript
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+Published in final edited form as:
+Psychiatr Clin North Am. 2014 September ; 37(3): 375–391. doi:10.1016/j.psc.2014.05.006.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+to mitigate distress, often in response to obsessions. Typical obsessions and compulsions
+include preoccupations with contamination accompanied by repeated or ritualized washing,
+fear of harm to self or others accompanied by checking rituals, and a need for symmetry or
+order, accompanied by ordering or arranging compulsions.
+OCD can be treated using pharmacotherapy, specialized psychotherapy, anatomically
+targeted treatments, or their combination [3]. First-line treatments include cognitivebehavioral therapy and pharmacotherapy with the selective serotonin reuptake inhibitors
+(SSRIs). In this article we review evidence-based pharmacotherapies for OCD, as well as
+alternatives that may be considered in refractory patients. Other treatment modalities are
+reviewed in other articles in this issue.
+Unfortunately, even with optimal treatment, many patients continue to experience
+significant symptoms. Remission of moderate or severe OCD is uncommon, and long-term
+management is often necessary. The development of new, more effective treatment
+interventions represents an urgent clinical need.
+Serotonin reuptake inhibitors
+The selective serotonin reuptake inhibitors (SSRIs) are the mainstay of the pharmacological
+treatment of OCD. The tricyclic antidepressant clomipramine was shown to be of benefit in
+the early 1980s [4], but side effects limit its use as a first-line agent. Fluvoxamine was first
+shown to be beneficial in individuals with OCD by Goodman and colleagues in 1989 [5].
+Since then, more than 20 blinded, placebo-controlled studies have firmly established the
+efficacy of SSRI monotherapy in OCD [6, 7]. Because of the combination of proven
+efficacy and a typically benign side effect profile, SSRIs are the first-line pharmacological
+option for the treatment of OCD [3].
+Closer examination of these studies permits several generalizations with respect to the
+clinical use of SSRIs for OCD. While fluvoxamine was the first SSRI shown to be
+efficacious and is still often thought of (and marketed) as a preferred OCD drug, there is no
+evidence of differential benefit among the SSRIs [7]; the choice of agent is therefore best
+made on the basis of side effects, drug interactions, patient preference, and similar
+considerations.
+SSRIs are more efficacious in OCD when used at high doses, in excess of the typical dose
+range established by their suppliers (which are generally derived from studies of major
+depressive disorder). For example, doses of up to 80 mg of fluoxetine, 40 mg of
+escitalopram, 300 mg of fluvoxamine, and 100 mg of paroxetine are often needed;
+sometimes even higher doses are used [3]. The benefit of these higher doses has been clearly
+shown by a meta-analysis of multiple studies [8]. Interestingly, this contrasts with the use of
+the same agents in the treatment of major depressive disorder (MDD), in which higher doses
+have been shown to carry a higher side effect burden without increased benefit [9]. OCD
+symptoms typically also take longer to respond to SSRI monotherapy than do those of
+MDD; an adequate trial is 8–12 weeks [3]. The reasons for these differences between OCD
+and MDD response to SSRIs remain unclear.
+Pittenger and Bloch
+Page 2
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+While these adages – higher dose and longer treatment – are widely accepted by OCD
+specialists, their relevance to clinical treatment of individual patients should not be
+overstated. The number needed to treat (NNT) for OCD patients treated with SSRI
+monotherapy at standard (antidepressant) doses is approximately 5, meaning that if 5
+patients are treated with an SSRI, one can be expected to respond who would not have
+responded to placebo [7, 8]. The NNT for a dose escalation from a medium dose to the
+higher doses noted above is 13–15 [8]. Therefore, while there is clear, measurable benefit to
+escalating SSRI dosage, the probability that it will move an individual patient from being a
+‘non-responder’ to being a ‘responder’ is modest. There may, however, be smaller but still
+clinically meaningful improvements with dose escalation, to which studies are insensitive as
+they typically use a categorical definition of treatment response.
+With respect to the time to response, the picture is also more complicated than the simple
+statement that SSRIs take 8–12 weeks to work. Some patients experience subjective
+improvement much more rapidly. A recent meta-analysis examining the trajectory of
+symptom improvement, rather than the response rate at endpoint, suggests that benefit
+begins in the first weeks of treatment, though it may take many weeks to become clinically
+(and statistically) significant in many cases [10]. Therefore, while the observation that SSRI
+response is typically slower in OCD than in MDD is correct, the suggestion that there is no
+response until after many weeks of treatment is an oversimplification.
+Use of the SSRI citalopram merits particular mention. Although it is not approved by the
+FDA for use in OCD, citalopram is as efficacious as the SSRIs that are approved [7] and has
+historically been frequently used because of its generally good tolerability. However, in
+2011, the FDA issued a black-box warning against the use of citalopram doses in excess of
+40 mg/day, due to a risk of ECG abnormalities and a theoretical risk of arrhythmia [11].
+Doses above 20 mg/day are not recommended in the elderly, and it is recommended that the
+drug be avoided altogether in individuals with a QTc of greater than 500 msec or with
+conditions that predispose to arrhythymia. (This effect appears to be smaller for
+escitalopram, which does not carry a similar FDA warning and is a reasonable alternative
+[12].) The merit of this warning, which did not take into account the evidence for benefit
+from higher doses in OCD, has been questioned [13]. Nevertheless, its existence complicates
+the clinical use of citalopram at high doses for OCD, and many clinicians have switched to
+escitalopram or another SSRI as an alternative. Because all of the SSRIs have similar
+efficacy, there is little reason not to make such a switch. In individual patients who have
+clearly benefited from citalopram and do not wish to make a switch, ECG monitoring is
+advisable.
+Children and adolescents
+The use of SSRIs in children and adolescents differs in some ways from their use in adults.
+Although randomized, placebo-controlled trials clearly demonstrate benefits of SSRI in
+children with OCD, concerns regarding side effects are more substantial [6]. The added
+benefit from higher doses of SSRIs, which is clear in adults, has not been demonstrated in
+the pediatric population. Three of the SSRIs are approved by the FDA for use in children:
+Pittenger and Bloch
+Page 3
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+fluoxetine (age 7 and above), sertraline (age 6 and above), and fluvoxamine (age 8 and
+above). Clomipramine is also FDA-approved for children 10 and above.
+Clomipramine
+The tricyclic antidepressant clomipramine was the first agent shown clearly to be beneficial
+in patients with OCD [4]; it was approved by the FDA for the treatment of OCD in 1989. Of
+the tricyclics, clomipramine is the most potent inhibitor of serotonin reuptake. It is
+sometimes described as a serotonin reuptake inhibitor (SRI) – not an SSRI, because it also
+binds with high affinity to other receptors and reuptake sites. Meta-analysis suggests that
+clomipramine may be more efficacious than the SSRIs [14]. However, a variety of technical
+issues (such as drug dosing and the difficulty maintaining a blind in studies of clomipramine
+due to its side effect profile) complicate this interpretation, and head-to-head trials
+comparing clomipramine with SSRIs have not shown it to be superior [3]. The fact that
+higher doses of SSRIs are more efficacious suggests that studies using standard SSRI doses
+may underestimate the benefit of these agents and therefore bias a comparison with
+clomipramine (for which dose elevation is not possible due to the risk of cardiac toxicity).
+On the other hand, our recent meta-analysis suggests added benefit to clomipramine even
+when SSRI dosage is appropriately taken into account [10]. It seems likely that
+clomipramine has a small added benefit, at least for some patients.
+This modestly greater efficacy must be balanced against clomipramine’s more problematic
+side effect and safety profile. In contrast to SSRIs, clomipramine has significant
+anticholinergic side effects (e.g. dry mouth and constipation), anti-histaminergic effects (e.g.
+weight gain and sedation) and alpha-adrenergic blocking effects (e.g. hypotension). It also
+has substantial arrhythmogenic potential; doses at or above the upper limit of the
+recommended dosing range, 250 mg, may require ECG monitoring, and cardiotoxicity in
+overdose is a concern. Clomipramine also carries a risk of seizure at doses above 250 mg.
+For all of these reasons, clomipramine is not generally considered a first-line agent. It
+remains an important alternative when SSRI monotherapy fails [3].
+One pharmacological strategy that is sometimes used is the addition of clomipramine to an
+SSRI, or of an SSRI to clomipramine. The motivating logic is that this may capture the
+benefits of clomipramine without requiring doses that produce problematic side effects.
+However, controlled data on the use of these strategies are sparse [15] and do not provide
+clear guidance as to their efficacy. The combination of clomipramine with fluvoxamine can
+be problematic and is best avoided. Fluvoxamine is a potent inhibitor of the liver enzyme
+CYP2C19 and thus inhibits the metabolism of clomipramine to desmethyl-clomipramine.
+This can result in marked elevations of serum clomipramine when the two agents are coadministered, raising the risk of side effects such as seizure or arrhythmia [16].
+Discontinuation of treatment
+Only a few studies have addressed the issue of how long to continue pharmacotherapy, once
+a clinical response has been achieved. This is of course a complex decision in individual
+cases, with benefit being weighed in the context of side effects, patient attitudes,
+comorbidities, the potential for drug interactions, pregnancy and lactation, and other factors.
+Pittenger and Bloch
+Page 4
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+OCD is often a chronic condition, and remission is unfortunately rare. Treatment of an
+episode to remission followed by treatment discontinuation is, therefore, not a common
+clinical scenario.
+This question can be addressed using a double-blind discontinuation study design, in which
+a group of stably treated patients are randomized to continue on their pharmacotherapy or be
+switched to a placebo. One recent study found much higher relapse rate in patients switched
+to placebo (52%) than those who continued on stable escitalopram (23%) [17]. A metaanalysis of similar studies supports this conclusion, with relapse rates in individuals
+switched from stable active pharmacotherapy to placebo approximately double those in
+patients maintained on their SSRI pharmacotherapy [18]. In general, once symptom
+improvement on a stable medication regimen has been achieved, these results suggest that
+continuation of treatment is advisable, in the absence of intolerable side effects or other
+case-specific factors.
+SNRIs
+The efficacy of clomipramine led to the hypothesis that dual-acting serotoninnorepinephrine reuptake blockers might be of greater benefit than SSRIs [19]. Indeed, an
+early open-label study of venlafaxine suggested that SNRIs are highly effective in the
+treatment of SSRI-refractory OCD, with response rates of 76% in 29 subjects [20].
+However, while other uncontrolled case series have continued to suggest benefit, a
+subsequent double-blind crossover study suggested that venlafaxine may actually be less
+effective than paroxetine in the treatment of refractory OCD [21]. When 43 patients who
+failed to respond to one of these two agents were switched in a double-blind fashion to the
+alternative agent, the response rate to paroxetine (56%) was significantly higher than that to
+venlafaxine (19%) [21]. While there continues to be some theoretical rationale for the use of
+SNRIs, they cannot be recommended for OCD monotherapy on the basis of currently
+available data. Further research is needed.
+Pharmacological augmentation
+Monotherapy with agents beyond the SRIs has not been shown to be of benefit in OCD.
+When SRI monotherapy fails, therefore, pharmacological augmentation with other agents is
+a frequent recourse. Clear evidence exists for benefit from the addition of low-dose
+neuroleptics to stable SRIs. Numerous other agents have been investigated in this context,
+but the evidence for benefit is less clear. Nevertheless, because up to 30% of patients
+experience little benefit from the best evidence-based treatments, clinicians must in practice
+often turn to these less well-established strategies.
+Neuroleptic augmentation
+Double-blind trials in the late 1990s demonstrated efficacy of augmentation of SSRI
+pharmacotherapy with low-dose typical and atypical antipsychotics in OCD. A recent metaanalysis of 9 double-blind, placebo controlled trials of augmentation with typical or atypical
+antipsychotics demonstrated their efficacy compared to placebo [22, 23]. Approximately
+one-third of treatment refractory OCD patients will respond to antipsychotic augmentation;
+Pittenger and Bloch
+Page 5
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+the NNT is 4.6. OCD patients with comorbid tic disorders appear to respond particularly
+well to antipsychotic augmentation. There is no evidence that any particular antipsychotic
+commonly used as augmentation is any better than any other antipsychotic agent, although
+the most convincing evidence for efficacy exists for haloperidol and risperidone. It should
+be noted that not all studies show positive results; one recent study found no benefit from
+the addition of risperidone to stable clomipramine treatment (whereas the addition of
+cognitive behavioral therapy was highly beneficial) [24]. It is clear that not all patients
+benefit from neuroleptic augmentation; the patients included in this recent study study had
+fewer tics and may have been less treatment resistant than those in earlier studies, which
+may explain the discrepant results.
+In general, antipsychotic augementation should not be considered until two SRI trials of
+adequate dose and duration have been attempted, because of the more benign side effect
+profile of the SRIs and the reasonable likelihood of response to extended treatment or a
+switch to a second agent. However, if significant symptoms persist after two such trials,
+augmentation with a low dose of an antipsychotic represents a realistic treatment option,
+espeically in patients with a personal or family history of tics.
+Glutamatergic agents: the NMDA receptor
+Substantial recent interest has focused on the role of glutamate imbalance in OCD [25].
+Polymorphisms in the gene for the major neuronal glutamate transporter have been
+associated with OCD, though the nature of any causative polymorphism remains unclear
+[26]. Several magnetic resonance spectroscopy (MRS) studies have indicated abnormalities
+in glutamate and related molecules, although again the specific nature of the hypothesized
+disruption remains unclear [27]. Finally, a pair of studies examining cerebrospinal fluid in
+unmedicated adults with OCD have found elevated glutamate levels [28, 29]. These findings
+have spurred interest in the use of gluatmate modulators for pharmacological augmentation
+in SRI-refractory disease; several such agents are already approved for other indications.
+Because these findings suggest an excess of extrasynaptic glutamate, anti-glutamatergic
+modulators have been the most extensively investgiated.
+Agents targeting the NMDA class of glutamate receptor have received particular attention. It
+has been targeted in several distinct ways, which may have different effects on neuronal
+function and circuit dynamics. Memantine, which is used for the treatment of Alzheimer
+disease, is a low-affinity noncompetitive NMDA blocker. A series of small uncontrolled
+studies have suggested benefit in both adults and children with OCD [30–33]. One of these
+suggested differential benefit in OCD compared to generalized anxiety disorder, indicating
+that there may be some diagnostic specificity to the effect [31]. More recently, a pair of
+blinded, placebo controlled studies from Iran examined memantine augmentation [34] or
+monotherapy [35] and found a surprisingly substantial benefit. The effects reported are
+substantially more robust than what is suggested by the previously reported open-label
+studies, reaching 100% response and 89% remission after 8 weeks of treatment. These
+studies are promising, but replication in other populations is needed to increase confidence
+in the generalizability of the results. On the other hand, as memantine is an FDA-approved
+medication with a rather benign side effect profile at the doses used (typically 20 mg/dy),
+Pittenger and Bloch
+Page 6
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+emprical use in refractory patients may be reasonable even in the absence of definitive
+studies.
+Several other studies have reported benefit from indirect modulators of the NMDA receptor.
+Glycine is a co-agonist of the NMDA receptor and is required for its full activation. In a
+small study, blinded treatment with glycine (or placebo) appeared to improve symptoms, an
+effect that nearly reached significance in an analysis of completers [36]. Unfortunately,
+glycine was very poorly tolerated, and there were many dropouts. Another small, open-label
+study investigated the naturally occurring amino acide analog sarcosine, which is an
+inhibitor of glycine reuptake and thus is predicted to indirectly increase synaptic glycine.
+There was a 20% reduction in OCD symptoms; this must be interpreted with caution in the
+absence of a placebo comparison group but is encouraging [37].
+A third set of studies have used the high-potency anesthetic NMDA blocker ketamine. These
+are motivated by the startling observation that a single challenge with ketamine can have
+rapid antidepressant effects lasting days or 1–2 weeks, even in treatment-refractory MDD
+[38]. Two fairly small studies of ketamine challege in OCD have yielded conflicting results.
+In a placebo-controlled study of unmedicated patients, Rodriguez et al have shown a pattern
+of response very similar to what has been reported in MDD: a rapid improvement within
+hours of a ketamine infusion that lasts several days before symtoms return to baseline [39].
+In contrast, in a somewhat more ill group of patients, many of whom had comorbidities and
+many of whom were medicated, Bloch and colleagues found no clinically significant benefit
+from ketamine [40]. This second study did not have a placebo control group, but many of
+the subjects were depressed, and many of those exhibited an improvement in their
+depressive symptoms, which therefore dissociated, from OCD subjects in the same subjects.
+This provides an ‘internal control’ documenting the adequacy of the ketamine infusion. It
+remains unclear whether the discrepancy between these two studies derives from
+methodological factors or from differences in the patient populations studied. Further
+research is needed. Regardless, ketamine is unlikely to become a major part of the
+pharmacological armamentarium: as currently administered it requires IV infusion; the
+effects are transient; and both basic and clinical literature raise concerns about the
+neurotoxic potential of chronic ketamine exposure. As in depression, therefore, any benefit
+from ketamine challenge is likely to be more useful as a guide to the development of future
+therapeutics than as a new treatment option in its own right.
+It is important to note that these three ways of modulating the NMDA receptor are
+fundamentally different from one another. Memantine chronically blocks NMDA receptor
+function; in both open-label and controlled studies, benefit has been seen after weeks.
+Glycine and sarcosine, in contrast, are positive modulators of NMDA function and may
+potentiate it. Finally, ketamine is a much more potent antagonist than memantine, but its use
+in studies to date is fundamentally different, consisting of an acute challenge rather than
+chronic treatment for weeks. These very different ways of targeting the receptor are likley to
+have fundamentally different effects on neuronal and circuit functioning. If ongoing research
+corroborates the benefit of more than one of these interventiaol stratgies, an explanation for
+this fact will be called for.
+Pittenger and Bloch
+Page 7
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Other glutamate-modulating agents
+A variety of other glutamate-modulating agents have been tried in OCD, chiefly in small,
+uncontrolled studies. A pair of open-label studies in profoundly refractory patients suggests
+benefit from the glutamate modulator riluzole, which is approved by the FDA for the
+treatment of amyotrophic lateral sclerosis [41, 42]; however, controlled data have not yet
+been reported. Riluzole is generally well tolerated, and some patients have been on it
+continuously for years without problems [42]. Riluzole has several mechanisms of action; it
+remains unclear which may provide benefit in OCD [43].
+The antiepileptic topiramate is thought to modulate neuronal glutamate levels through its
+interaction with voltage-gated ion channels. Two controlled trials have suggested benefit
+from topiramate, at a variety of doses; there is some evidence of a greater effect on
+compulsions than on obsessions [44, 45]. Cognitive, sedative, and weight-loss side effects
+may limit the use of topiramate in some cases.
+Lamotrigine is an antiepileptic and mood stabilizer. It is thought to reduce neuronal
+glutamate outflow through its inhibition of certain voltage-gated sodium channels, a
+mechanism that overlaps with some of the effects of riluzole [43]. An initial investigation of
+lamotrigine in OCD provided no evidence of benefit [46]. However, a more recent
+randomized trial investigated lamotrigine augmentation of stable SSRI treatment and found
+marked benefit, with 50% responders in the lamotrigine group and none in the placebo
+group [47]. The reason for this discrepancy is unclear, and more work is needed.
+The amino acid derivative N-acetylcysteine has both antioxidant and glutamate-modulating
+properties. It has been examined in a variety of conditions and is an attractive agent because
+it is availaele over-the-counter, is extremely affordable, and has few side effects. An early
+case report suggested benefit in OCD [48]. More recently a placebo-controlled trial from
+Iran suggested marked benefit of the addition of N-acetycysteine to stable SSRI treatment in
+adults with OCD [49]. More work is needed; but the many attractive characteristics of this
+agent may make it a viable option in some cases once better-proven strategies have been
+exhausted.
+Other pharmacological augmentation strategies
+A variety of other agents have been used to augment ineffective SSRI treatment; none are
+sufficiently well supported by the literature to have entered the standard of care, but small
+studies provide intriguing evidence of benefit in several cases.
+Mirtazapine is an α-2 adrenergic receptor antagonist and thus enhances norepinephrine
+release [50]; it also indirectly enhances serotonergic neurotransmission. A case series of 6
+OCD patients suggested that mirtazapine is ineffective as an augmentation agent for
+treatment-refractory OCD [20]. However, in an unblinded trial of 49 treatment-naïve OCD
+patients, subjects receiving citalopram plus mirtazapine had an accelerated clinical response,
+with a significantly greater reduction in OCD severity at 4 weeks compared to citalopramplus-placebo. Treatment response in the two groups equalized by 12 weeks [51]. This result
+suggests that mirtazapine may be helpful in accelerating the initial response to SRI
+Pittenger and Bloch
+Page 8
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+pharmacotherapy but not increasing the ultimate likelihood of response in those who fail
+initial SRI pharmacotherapy.
+Opioid augmentation
+The endogenous opioid system has been postulated to be involved in OCD pathogenesis
+ever since it was noted that administration of the opioid antagonist naloxone exacerbated
+OCD symptoms [52]. A double-blind, placebo-controlled crossover trial of 23 treatment
+refractory OCD patients demonstrated a significantly greater decreased in OCD symptoms
+in response to weekly oral morphine compared to placebo [53]. Two weeks of oral morphine
+produced a median decrease in Y-BOCS severity of 13%, with 7 of the 23 subjects (30%)
+being treatment responders [53]. Tramadol hydrochloride, an opioid agonist with lower
+abuse potential than morphine, has been studied as an augmentation agent for treatment
+refractory OCD in an open-label trial. The six treatment-refractory OCD patients included in
+this study experienced an average decline of Y-BOCS scores of 26% [54]. Further doubleblind studies are needed to establish the efficacy of tramadol as an augmentation agent in
+OCD.
+Ondansetron is a 5-HT3 receptor agonist that is used as an anti-emetic. Several small
+studies have suggested benefit from low doses of ondansetron and of the related agent
+granisetron in OCD [55, 56]. The studies showing the clearest effects are again from Iran
+[57, 58]. In December of 2012, Transcept Pharmaceuticals announced that a Phase 2 trial of
+ondansetron had not met its primary efficacy endpoint [59]. The role, if any, for 5-HT3
+agonists as augmentation in refractory disease remains to be clarified.
+Caffeine was included as an active control in a pilot study of amphetamine augmentation in
+OCD. Both dextroamphetamine and caffeine led to significant improvements in refractory
+patients over 5 weeks [60]. The potential clinical use of these stimulants has not yet been
+followed up in larger studies.
+In sum, small studies of varying quality have led to several intriguing possibilities for
+augmentation strategies in OCD that is refractory to standard pharmacological approaches.
+However, in none of these cases is such an approach supported by multiple high-quality
+studies. Further research is needed to address the unmet clinical needs of the substantial
+minority of OCD patients who do not respond to standard-of-care treatment.
+Over-the-counter agents
+There has been significant interest in a variety of over-the-counter (OTC) agents for OCD
+[61, 62]. These are often perceived as safer and more ‘natural’ than prescription
+pharmacotherapy, which makes them attractive to many patients. N-acetylcysteine,
+sarcosine, and glycine, which have been addressed above in the context of glutamate
+modulators, fall into this category. Unfortunately, variable quality control makes it difficult
+to use these less-regulated agents with confidence, and the research base guiding their use
+remains very thin. We have recently reviewed this literature and provide guidance for the
+use of OTC agents [63]. We will not extensively review the literature on these agents here
+but rather highlight those for which there is some substantive evidence of benefit. Most OTC
+Pittenger and Bloch
+Page 9
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+agents are well tolerated, which is why they are lightly regulated; the typically low risk
+associated with their moderate use may make such a strategy reasonable, when preferred by
+individual patients, even when the evidence for benefit is less than robust.
+Myo-inositol has been examined in two small studies. The first found evidence of benefit
+from monotherapy [64]. A follow-up study from the same group found no benefit from the
+addition of myo-inositol to stable SSRI treatment [65]. The authors suggest that this
+indicates an interaction, such that myo-inositol is only efficacious when used as monotherapy. However, both of these studies, while well designed, were small. More work would
+be needed to substantiate the use of myo-inositol to the point that it could be recommended
+as part of the standard of care.
+Other agents
+Small studies have investigated a number of other agents, including kava, St. John’s wort,
+borage, milk thistle, eicosapentaenoic acid, and tryptophan [63]. However, for none of these
+is there substantial evidence of benefit for OCD symptoms (though St. John’s wort may be
+of benefit for comorbid depressive symptoms). Potential side effects are of concern in some
+cases, especially with chronic use of kava.
+Combination treatment
+SSRI pharmacotherapy and behavioral and cognitive-behavioral psychotherapy are
+considered first-line treatments for OCD. (Psychotherapies for OCD are reviewed elsewhere
+in this issue.) It is intuitive that their combination would be more efficacious than either
+alone. Surprisingly, careful studies suggest that this may not always be the case, at least in
+an idealized setting in adults.
+In the pediatric population, the POTS trial (Pediatric OCD Treatment Study) compared
+CBT, sertraline, and their combination with placebo in 112 children with OCD [66]. All
+active treatments were superior to placebo and were well tolerated. Combination treatment
+was more effective than either CBT alone or sertraline alone, supporting synergistic benefit.
+A follow-up study found that the addition of CBT to stable pharmacotherapy can provide
+further improvement [67]. This pair of large, definitive studies establishes rather clearly that
+the combination of medication and psychotherapy is more effective than either one alone, in
+the pediatric population.
+In adults, the benefits of combination therapy are less clear. A large study comparing expert
+CBT, clomipramine, and their combination to placebo found that the benefit of CBT
+exceeded that of clomipramine, and that combination treatment provided no significant
+additional improvement [68]. A follow-up study from the same group looked at the addition
+of CBT to stable SRI treatment, compared to risperidone augmentation. CBT was markedly
+superior [24]. These studies suggest that combination treatment may not provide benefit.
+However, important caveats to this conclusion must be noted. The CBT provided in these
+studies was intensive (twice weekly) and was administered by particularly skilled experts at
+academic centers; it is likely to be more potent than CBT as practiced in the community,
+Pittenger and Bloch
+Page 10
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+even by experienced practitioners. Medication in these studies was administered in a
+manualized, relatively inflexible way, which may not recapitulate typical pharmacological
+strategies. In clinical practice, most authorities continue to recommend combination therapy
+as having potential benefits above and beyond medication or therapy alone [3]. For example,
+some patients cannot tolerate the anxiety that is inherent to CBT until their symptoms are
+somewhat moderated by medication.
+Augmentation of psychotherapy through enhancement of plasticity
+As our understanding of the brain processes underlying learning advances, an exciting
+prospect is that this knowledge can be harnessed to enhance the potency and specificity of
+psychotherapy. While such synergistic strategies have not entered mainstream clinical
+practice, there are several promising initial steps in this direction, especially in the treatment
+of anxiety disorders.
+The NMDA glutamate receptor, described above, has a key role in modulating the strength
+of connections between neurons, which is thought to be a key substrate for learning. In
+animals, enhancement of NMDA receptor function can enhance learning [69]. This
+observation has led to the idea that transient enhancement of NMDA function, in
+conjunction with focused psychotherapeutic interventions, might lead to improved efficacy
+[70]. An initial proof of concept of this approach was provided by Ressler, Davis, and
+colleagues in a seminal set of studies. In animals, they showed that D-cycloserine, a positive
+allosteric modulator of the NMDA receptor, enhanced extinction of learned fear in animals
+[71]. They then applied this strategy to the extinction-based treatment of acrophobia, and
+found that D-cycloserine enhanced clinical response [72].
+Several studies have sought to apply this approach to the treatment of OCD. Results to date
+are mixed, with some studies showing enhanced efficacy or rate of responding in patients
+treated with D-cycloserine prior to CBT sessions [73]. Variables such as the dosage and the
+timing of D-cycloserine administration are likely to be key to any benefit. The effect of Dcycloserine appears to decrease over CBT sessions, which may indicate that the primary
+effect is on the rate of responding, rather than on the ultimate efficacy of the treatment [73].
+D-cycloserine is reasonably well tolerated and is available at compounding pharmacies; this
+strategy is therefore available to clinicians, though it has not entered widespread use. These
+findings are perhaps more valuable as a demonstration of the viability of plasticityenhancing manipulations to optimize the response to CBT; further research in this area may
+lead to more dramatic interactive effects.
+It is important to note that the targeting of the NMDA receptor using D-cycloserine is
+qualitatively different from the pharmacological use of memantine, ketamine, or glycine,
+which have been discussed above. When D-cycloserine is used in conjunction with CBT,
+function of the NMDA receptor is acutely enhanced, in order to potentiate plasticity.
+Glycine, and similar agents, seek to chronically enhance NMDA receptor function. In
+contrast, ketamine transiently blocks the NMDA receptor, while memantine treatment has
+been used to chronically block it. The fact that such disparate therapeutic strategies targeting
+a single target, with some evidence of benefit for each, speaks to the centrality of this
+receptor in brain function and in psychopathology.
+Pittenger and Bloch
+Page 11
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Pharmacogenetics
+There has been great excitement in recent years about pharmacogenetics: the possibility of
+using individual genetic data to predict drug response and/or side effects, and thus to
+meaningfully guide treatment choices. The appeal and theoretical potential of this approach
+cannot be denied. As the response to medication treatment in OCD is highly heterogeneous
+and the disorder has a substantial genetic component, this may be a particularly appropriate
+context for a pharmacogenetic approach.
+In MDD, significant work has been done in this area and has implicated polymorphisms in a
+number of genes as predictors of antidepressant response [74, 75]. In contrast, progress in
+establishing genetic polymorphisms with predictive value in OCD has been relatively slow
+[76]. Over the past decade, our ability to gather genetic information has rapidly outstripped
+our knowledge of which polymorphisms are prognostically useful. Because a number of
+companies are now offering genotyping services to patients, it is increasingly critical for
+clinicians to be in a position to interpret such data.
+Conceptually, there are two ways in which genetic polymorphisms may contribute to
+medication response. First, they could affect pharmacokinetics, by altering drug metabolism
+or transport; well-characterized polymorphisms in the liver’s cytochrome P450 system or the
+blood brain barrier efflux pump are likely to fall into this category. Alternatively,
+polymorphisms in brain-expressed molecules related to hypothesized pathophysiological
+mechanisms are more likely to alter a drug’s pharmacodynamics actions, either by directly
+altering its interactions with its molecular targets or by changing the way interacting
+molecules or cellular processes react to drug effects. Polymorphisms in components of the
+serotonergic and glutamatergic system are more likely to fall into this latter category,
+although it may not be possible (or necessary) to make this distinction with confidence a
+priori.
+Examination of loci in pharmacogenetic studies can be done either in a targeted, hypothesisdriven fashion, by picking genes of potential interest with known polymorphisms and
+examining them in the target population, or in an exploratory fashion, in which the genome
+is queried more broadly to find loci associated with response (i.e. pharmacogenomics). The
+latter approach requires many more subjects and has not yet been used in OCD.
+The cytochrome P450 enzymes are highly polymorphic in the population and have a wellcharacterized role in drug metabolism, including in the metabolism in a number of drugs
+commonly used for the treatment of OCD. Given that polymorphisms in this system are well
+established to affect the rate at which different individuals metabolize specific drugs, and
+thus the concentration of active drug to enter the brain and the concentration of potentially
+active metabolites, this system represents a promising target for pharmacogenetic studies. A
+recent investigation examined P450 polymorphisms in 184 patients with OCD [77]. The
+strongest effect was an association of low-activity variants in the gene CYP2D6 with the
+number of past failed treatment trials in these patients, which may be a surrogate marker for
+refractoriness. There was also a lower incidence of side effects from venlafaxine in
+individuals with normal (‘extensive’) CYP2D6 metabolic activity than those with lower
+Pittenger and Bloch
+Page 12
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+metabolizing alleles. This may be due to the fact that venlafaxine is metabolized to an active
+metabolite, O-desmethylvenlafaxine, which is therefore reduced in low-metabolizers. Trendlevel effects suggested an influence of CYP2D6 metabolizer status on response to fluoxetine
+and of CYP2C19 status on response to sertraline. These findings require replication and do
+not yet provide clear guidance for the application of genetic data to treatment selection, but
+they represent a promising start to a potentially important new source of information to
+guide clinical decision-making.
+Other small studies in OCD have examined polymorphisms in genes more likely to be
+associated with pharmacodynamics, such as the serotonin receptor HTR2A, the serotonin
+transporter SLC6A4, the neurotransmitter BDNF, and the monoamine metabolic enzyme
+COMT. However, these studies have by and large been small and inconsistent [76]. More
+work is needed in this area.
+Conclusion
+Our treatments for OCD remain inadequate. While a majority of patients will respond to
+established pharmacotherapy and/or psychotherapeutic approaches, approximately a quarter
+do not. Furthermore, many of those who are classified as ‘responders’ continue to have
+substantial symptoms and a chronic reduction in productivity and in quality of life.
+The SSRIs are the mainstay of the pharmacological treatment of OCD. Their combination of
+efficacy with relatively good tolerability is not matched by any other available agents. There
+is no known difference in the efficacy of different SSRIs, and thus the choice of agent is best
+guided by side effects, pharmacokinetic considerations, and patient preference. Higher doses
+and longer duration of treatment, relative to standard practice in the treatment of MDD, is
+often required. Clomipramine provides an alternative for monotherapy and may be
+marginally more effective, but its side effect profile mitigates against its use as a first-line
+agent in most cases. When monotherapy fails, augmentation with low-dose neuroleptic
+(especially risperidone) or psychotherapy has good support in the literature. Other
+augmentation strategies are less well established but are often appropriate when first- and
+second-line approaches have been exhausted.
+Perhaps the most important conclusion from this review of pharmacotherapeutic options is
+that there is a relative paucity of well-established treatment options in OCD, when SSRI
+treatment fails. This contrasts with MDD, schizophrenia, and many other major psychiatric
+conditions, in which numerous mechanistically distinct pharmacological strategies are
+available and algorithms for stepped treatment are being developed. It is to be hoped that, as
+more research is done in the pathophysiology and treatment of OCD and related disorders,
+clinicians will have a broader array of treatment options in the future.
+Key abbreviations
+OCD
+obsessive compulsive disorder
+SRI
+serotonin reuptake inhibitor
+Pittenger and Bloch
+Page 13
+Psychiatr Clin North Am. Author manuscript; available in PMC 2015 September 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+SSRI
+selective serotonin reuptake inhibitor
+TS
+Tourette syndrome
+MDD
+major depressive disorder

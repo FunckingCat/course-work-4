@@ -1,0 +1,265 @@
+TYPE Review
+PUBLISHED 30 November 2023
+DOI 10.3389/fmicb.2023.1279159
+OPEN ACCESS
+EDITED BY
+Efthymia Giannitsioti,
+University General Hospital Attikon, Greece
+REVIEWED BY
+Evdoxia Kyriazopoulou,
+National and Kapodistrian University of Athens,
+Greece
+Antonio Galiana,
+Fundación para el Fomento de la Investigación
+Sanitaria y Biomédica de la Comunitat
+Valenciana (FISABIO), Spain
+*CORRESPONDENCE
+Mukesh Kumar Yadav
+mukiyadav@gmail.com
+RECEIVED 17 August 2023
+ACCEPTED 27 October 2023
+PUBLISHED 30 November 2023
+CITATION
+Lalbiaktluangi C, Yadav MK, Singh PK, Singh A,
+Iyer M, Vellingiri B, Zomuansangi R,
+Zothanpuia and Ram H (2023) A cooperativity
+between virus and bacteria during respiratory
+infections.
+Front. Microbiol. 14:1279159.
+doi: 10.3389/fmicb.2023.1279159
+COPYRIGHT
+© 2023 Lalbiaktluangi, Yadav, Singh, Singh, Iyer,
+Vellingiri, Zomuansangi, Zothanpuia and Ram.
+This is an open-access article distributed under
+the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with
+these terms.
+A cooperativity between virus and
+bacteria during respiratory
+infections
+C. Lalbiaktluangi1, Mukesh Kumar Yadav1*,
+Prashant Kumar Singh2, Amit Singh1, Mahalaxmi Iyer3,
+Balachandar Vellingiri3, Ruth Zomuansangi1, Zothanpuia2 and
+Heera Ram4
+1Department of Microbiology, Central University of Punjab, Bathinda, Punjab, India, 2Department
+of Biotechnology, Mizoram University (A Central University), Pachhunga University College, Aizawl,
+Mizoram, India, 3Department of Zoology, Central University of Punjab, Bathinda, Punjab, India,
+4Department of Zoology, Jai Narain Vyas University, Jodhpur, India
+Respiratory tract infections remain the leading cause of morbidity and mortality
+worldwide. The burden is further increased by polymicrobial infection or viral
+and bacterial co-infection, often exacerbating the existing condition. Way back
+in 1918, high morbidity due to secondary pneumonia caused by bacterial
+infection was known, and a similar phenomenon was observed during the
+recent COVID-19 pandemic in which secondary bacterial infection worsens
+the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) condition.
+It has been observed that viruses paved the way for subsequent bacterial
+infection; similarly, bacteria have also been found to aid in viral infection.
+Viruses elevate bacterial infection by impairing the host’s immune response,
+disrupting epithelial barrier integrity, expression of surface receptors and adhesion
+proteins, direct binding of virus to bacteria, altering nutritional immunity, and
+effecting the bacterial bioﬁlm. Similarly, the bacteria enhance viral infection by
+altering the host’s immune response, up-regulation of adhesion proteins, and
+activation of viral proteins. During co-infection, respiratory bacterial and viral
+pathogens were found to adapt and co-exist in the airways of their survival
+and to beneﬁt from each other, i.e., there is a cooperative existence between
+the two. This review comprehensively reviews the mechanisms involved in the
+synergistic/cooperativity relationship between viruses and bacteria and their
+interaction in clinically relevant respiratory infections.
+KEYWORDS
+viral infection, respiratory diseases, COVID-19, bacterial contamination, cooperative
+relation
+1 Introduction
+Respiratory tract infections are among the most prevalent human infections and
+are a major health and economic burden worldwide. They include upper respiratory
+tract infections (URTI) like pharyngitis, nasopharyngitis, otitis media, and tonsillitis and
+lower respiratory tract infections (LRTI) like pneumonia, tuberculosis, bronchitis, and
+bronchiolitis (Dasaraju and Liu, 1996). World Health Organization (WHO) estimated that
+4 million people die each year due to acute respiratory infections (ARI), out of which
+the majority are infants, children, and geriatric patients (World Health Organization,
+2020). In developed countries, it was estimated that respiratory infections account for
+Frontiers in Microbiology
+01
+frontiersin.org
+Lalbiaktluangi et al.
+10.3389/fmicb.2023.1279159
+60% of antibiotic prescriptions (Lindbaek, 2006) and more than
+30% of sick leave. The burden is much higher in developing
+countries where respiratory infections accounted for the majority
+of deaths in children below the age of 5 years (Bryce et al., 2005).
+Both bacteria and viruses have been found to cause respiratory
+infections in humans. Streptococcus pneumoniae, Staphylococcus
+aureus, Haemophilus inﬂuenzae, Moraxella catarrhalis, Klebsiella
+pneumoniae, and Pseudomonas aeruginosa are the most common
+bacterial
+pathogens
+detected
+in
+respiratory
+tract
+infections
+(Cappelletty, 1998; Burillo and Bouza, 2010; Gadsby et al., 2015).
+Viral pathogens like Inﬂuenza A (IAV) and B, Respiratory Syncytial
+Virus (RSV), Adenovirus, Parainﬂuenza viruses, and Human
+Bocavirus account for 30–40% of respiratory infections (Huang
+et al., 2013; Wen et al., 2019).
+Recent technological advances have detected the presence of
+both viruses and bacteria in diﬀerent respiratory diseases such as
+pneumonia, otitis media (OM), cystic ﬁbrosis (CF), Coronavirus –
+19 (COVID-19), etc. Research has suggested that high morbidity
+during the 1918 pandemic may be due to secondary pneumonia
+caused by bacterial infection (Morens et al., 2008). A similar
+phenomenon was observed during the recent COVID-19 pandemic
+in which secondary bacterial infection worsens the SARS-CoV-2
+condition (Lansbury et al., 2020). De Bruyn et al. (2022) found
+that 68% of the COVID-19 patients admitted to the ICU developed
+secondary bacterial infections like pneumonia, bacteremia, etc. In
+a study conducted in Saudi Arabia, higher mortality rates were
+observed in COVID-19 patients co-infected with bacteria (50%)
+as compared to the SARS-CoV-2- only infected group (18.7%)
+(Alqahtani et al., 2022). Diﬀerent studies have shown that there is
+a symbiotic interaction between viruses and bacteria to establish
+an infection. Bacteria have been found to aid viral infection by
+altering the host’s immune response (Bellinghausen et al., 2016),
+upregulating the surface adhesion proteins (Gulraiz et al., 2015), by
+activation of viral proteins (Tashiro et al., 1987a,b), etc. Similarly,
+viruses have been found to aid bacteria in establishing secondary
+infection through several mechanisms, including impairment of
+the host’s immune response (Ghoneim et al., 2013), disruption
+of epithelial barrier integrity (Short et al., 2016), expression of
+surface receptors and adhesion proteins (Avadhanula et al., 2006),
+direct binding of virus to bacteria (Rowe et al., 2019), alteration
+of nutritional immunity (Siegel et al., 2014), etc. For better
+management of infectious diseases, it is essential to understand
+the underlying mechanism by which bacteria and viruses interact
+and aggregate, infect, or establish infection. This review provides
+a comprehensive look into the mechanisms involved in viral and
+bacterial co-infections and how this interaction played out in
+diﬀerent respiratory infections in human.
+2 Search strategy
+The review was conducted through searches of the PubMed
+database using diﬀerent search terms. The search term "viral
+bacterial co-infection" yielded 3,289 results; the results were ﬁltered
+to focus on co-infection in the respiratory tract and to eliminate
+co-infections in other systems like urinary tract infections and
+intestinal and gut infections. For the keyword "viral, bacterial coinfection," the number of published articles increased signiﬁcantly
+from 84 papers in 2010 to 315 papers in 2022. Other speciﬁc
+keywords were employed to study the co-infection patterns in
+diﬀerent diseases. In total, 147 papers were reviewed in this study.
+3 Interactions of bacteria and viruses
+in human infections
+Viruses and bacteria can interact directly or indirectly in
+human infection, and interaction between these two could be either
+positive or negative (Almand et al., 2017). Mutualism, symbiosis, or
+aiding in the evasion of the host’s immune system are all examples
+of positive associations. At the same time, negative interactions
+occur through ammensalism, predation, or when the host immune
+system aﬀects one organism over the other. The processes
+driving the synergy between virus and bacteria are complicated
+and multifaceted, with bacterial, viral, and host immunological
+components contributing to increased predisposition of infection.
+Many bacteria and viruses interact with each other and establish
+successful respiratory infections (Table 1). The respiratory viruses
+and bacterial interactions predispose bacterial superinfections,
+resulting in severe illness, and these interactions can inﬂuence
+microbial pathogenesis, including increased bacterial adhesion,
+enhanced virion stability, and modulation of the immune response
+by one microbe that beneﬁts the other (Håkansson et al., 1994;
+El Ahmer et al., 1999). Similarly, bacterial infection has also
+been found to modulate viral infections exacerbating the disease
+(Verkaik et al., 2011; Smith et al., 2013; Nguyen et al., 2015).
+3.1 Virus elevates bacteria invasion
+It has been established that prior viral infection augmented
+bacterial adherence to host cells. For example, it has been observed
+that in children with acute otitis media, prior infection by
+adenovirus type 1, 2, 3, and 5 signiﬁcantly enhances pneumococcal
+colonization (Håkansson et al., 1994). Another study by El Ahmer
+et al. (1999) also found that inﬂuenza A infection of Hep-2
+cells increased the adherence of S. pneumonia, H. inﬂuenza, and
+M. catarrhalis to virus-infected Hep-2 cells. Virus-induced bacterial
+adherence is achieved through several mechanisms, which are
+brieﬂy discussed in this section. The mechanisms are represented
+and summarized in Figure 1 and Table 1, respectively.
+(i) Impairment of the host’s immune response:
+Respiratory viruses can disrupt the host’s immune system
+through the malfunction and depletion of innate immune cells.
+One of the most well-studied cases is the inﬂuenza virusinduced dysfunction and depletion of alveolar macrophages,
+promoting subsequent bacterial infection (Ghoneim et al., 2013;
+Short et al., 2016). RSV infection has been found to cause
+neutrophil dysfunction by lowering oxidative burst and promoting
+apoptosis of neutrophils, elevating the adherence of S. aureus
+or P. aeruginosa (Stark et al., 2006). Inﬂuenza infection also
+modiﬁes monocyte functions, inhibiting proper immune response
+and reducing cytokine activity and synthesis, resulting in increased
+bacterial colonization and mortality risk (Abramson et al., 1982).
+Another innate immune cell aﬀected by viral infection is Natural
+Killer (NK) cells, which are the critical components of the innate
+Frontiers in Microbiology
+02
+frontiersin.org
+Lalbiaktluangi et al.
+10.3389/fmicb.2023.1279159
+FIGURE 1
+Elevation of bacterial colonization by viral infection. (A) Virus infection decrease the mucociliary clearance action resulting in increased bacterial
+colonization. (B) Viral infection impaired the epithelial barrier integrity by breaking Tight Junctions (TJs) and inhibiting Na+/K + ATPase pump
+promoting bacterial entry to the host cells. (C) Viruses directly binds to bacterial surface proteins forming a viral-bacterial complex that can infect
+uninfected cells as well as infected cells. (D) Viral proteins like Neuraminidase (NA) cleaves the sialic acid residues on the epithelial cell membrane
+exposing surface receptors and adhesion proteins aiding bacterial colonization. (E) Viral infection promotes bacterial bioﬁlm formation and growth
+by providing increased nutrients. (F) Viruses induced changes in host environment promotes dispersion of bacterial bioﬁlm leading to increased
+translocation of more virulent bacteria to other sites. (G) Viral infection induce change in nutritional immunity of the host resulting in elevated levels
+of nutrients which are utilized by bacteria for their growth. (H) Viral infection altered the host’s immune response to bacteria by decreasing the
+production and function of important immune cells like macrophages, NK cells, Dendritic cells and Neutrophils.
+immune response. Small et al. (2010) found that inﬂuenza infection
+increased susceptibility to S. aureus by reducing TNF-α induced
+NK cell production and impairing the activation of NK cells.
+Viral infection also aﬀects the adaptive immune response like T
+CD8 + and T CD4 + cell and antibody responses. RSV has been
+found to facilitate reinfection by reducing immune memory. This
+is achieved by impairing the interaction between dendritic cells
+and T-cells, reducing activation of naïve antigen-speciﬁc T-cells
+(González et al., 2008). In inﬂuenza-infected mice, a decrease in
+the production of FMS-like tyrosine kinase 3 ligand (FLT3-L),
+a dendritic cell diﬀerentiation factor was observed, resulting in
+decreased dendritic cell population in the lungs contributing to
+secondary bacterial infection (Beshara et al., 2018).
+Depletion and dysfunction of innate and adaptive immune cells
+signiﬁcantly aﬀect the production of cytokines and chemokines.
+Inﬂuenza infection has been found to decrease the production
+of pro-inﬂammatory cytokines like IL-1β, IL-6, and TNF-α,
+decreasing bacterial clearance. Inﬂuenza infection has also been
+found to aﬀect the adaptive Type 17 response. Nakamura
+et al. (2011) found that inﬂuenza inhibited the production of
+chemokine CCL2 responsible for bacterial clearance through the
+enhanced expression of type I IFN, thus promoting pneumococcal
+colonization. Robinson et al. (2013) also found that Inﬂuenza
+infection exacerbates S. aureus infection by decreasing IL-1β
+production, which attenuates Type 17 immunity. Lastly, Kudva
+et al. (2011) found that in mice infected with inﬂuenza virus and
+Staphylococcus aureus, a signiﬁcant decrease in production of IL17 and IL-22 cytokines was observed. Interestingly, cytokine release
+during the acute inﬂammation stage has been found to be capable of
+enhancing the growth of bacteria and prolonging bacterial infection
+(dos Santos et al., 2002). Kanangat et al. (1999) and Meduri et al.
+(1999) found that high concentrations of cytokines like IL-1b, IL6, and TNF-α enhance the in vitro growth of bacteria, including
+S. aureus, P. aeruginosa, and Actinobacteria sp.
+(ii) Disruption of epithelial barrier integrity
+Viral infection has been found to cause extensive damage to the
+human epithelial and endothelial cells. Epithelial barrier damage
+may occur due to direct cleavage of tight junctions. Downregulation
+of junction proteins through the host’s pro-inﬂammatory response
+against the virus results in impaired barrier integrity, increased
+Frontiers in Microbiology
+03
+frontiersin.org
+Lalbiaktluangi et al.
+10.3389/fmicb.2023.1279159
+TABLE 1 Mechanisms involved in viral predisposition to bacterial infection.
+Mechanism
+Example
+Virus
+Bacteria
